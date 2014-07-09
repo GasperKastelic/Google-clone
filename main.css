@@ -35,10 +35,32 @@ p       {
 div a   {
         text-decoration:none;
         color: black;
+        margin-right: -2px; 
         }
 
 .spodaj {
-        width:450px;
-        float: right;
-        margin-top: 250px;
+       width: 100%;
+       margin-top: 245px;
+        background-color: #DCD9DE;
+        height: 35px;
+        padding-top: 15px;
         }
+
+.right  {
+        float:right;
+        }
+
+div div a{
+        margin-left:10px;
+        
+        }
+
+.levo   {
+        
+        width: 400px;
+        margin-right: 5px;
+        float: left;
+        
+        }
+
+
